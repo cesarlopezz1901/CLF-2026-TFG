@@ -1,0 +1,16 @@
+# Archivos CONFIDENCIALES de anonimizacion - NUNCA subir al repositorio
+clave.key
+archivo_tokens.xlsx
+
+# Excels originales con datos identificativos
+EXCEL_1_VERSION_DEPURADA_27-3.xlsx
+EXCEL_2_VERSION_DEPURADA_27-3.xlsx
+EXCEL_1_FINAL.xlsx
+EXCEL_2_FINAL.xlsx
+*VERSION_DEPURADA*.xlsx
+~$*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
